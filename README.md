@@ -1,2 +1,2 @@
 # a-barbera.github.io
-Bio page, about me.
+Bio page, it's about me.
