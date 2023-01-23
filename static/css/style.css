@@ -1,0 +1,88 @@
+@import url('https://fonts.cdnfonts.com/css/korolev-heavy');
+
+nav {
+    font-family: 'Korolev Light', sans-serif;
+    color:antiquewhite;
+}
+
+.myClass:hover {
+    background-color: #3be9b8;
+  }
+
+body {
+    background-color: #BE3455;
+    font-family: 'Korolev Thin', sans-serif;
+    color:antiquewhite;
+
+}
+
+.header {
+    margin-top: 15%;
+    font-size: 80pt;
+    text-align: center;
+}
+
+
+.alt-light {
+    background-color: #BE3455;
+    color:antiquewhite;
+    
+}
+
+#carouselSlides {
+    font-size: 24pt;
+    text-align: center;
+    justify-content: center;
+    color:antiquewhite;
+    background-color: #BE3455;
+    align-content: center;
+    font-family: 'Korolev Light Italic', sans-serif;
+}
+
+.card-body:hover{
+    background-color: #3be9b8;
+    color: #BE3455;     
+}
+.btn-alt {
+    background-color: #8788df;
+    color:antiquewhite;
+    font-family: 'Korolev Bold', sans-serif;
+    
+}
+
+.btn-alt:hover {
+    background-color: #BE3455;
+    color: #3be9b8;
+    font-family: 'Korolev Bold', sans-serif;
+    
+}
+
+.card-body {
+    background-color: #fa446f;
+    text-align: center;
+    justify-content: center;
+}
+
+.card-title {
+    font-family: 'Korolev Thin', sans-serif;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width:max-content;
+  }
+
+.card {
+    background-color: #fa446f;
+  }
+
+h4 {
+    font-family: 'Korolev Bold', sans-serif;
+    color: #3be9b8;
+}
+
+li {
+    font-size: large;
+}
