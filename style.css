@@ -1,6 +1,16 @@
 @import url('https://fonts.cdnfonts.com/css/korolev-heavy');
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css");
 
+html {
+    height: 100%
+}
+body {
+    background-image:url("./D85_5664.abphoto.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-blend-mode:soft-light;    
+}
+
 nav {
     font-family: 'Korolev Light', sans-serif;
     color:antiquewhite;
