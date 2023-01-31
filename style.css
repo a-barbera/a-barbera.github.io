@@ -7,7 +7,7 @@ html {
 body {
     background-image:url("./D85_5664.abphoto.jpg");
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
     background-blend-mode:soft-light;    
 }
 
@@ -26,6 +26,21 @@ body {
     color:antiquewhite;
 
 }
+
+#about {
+    background-image:url("./D85_5561.abphoto.jpg");
+    background-color: #BE3455;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode:soft-light;
+    width:100%;
+    color:antiquewhite;
+    font-family: 'Korolev Bold', sans-serif;
+
+}
+
+
+
 .lead{
     font-family: 'Korolev Light', sans-serif;
 }
@@ -91,9 +106,20 @@ body {
     background-color: #fa446f;
   }
 
+table {
+    text-align: center;
+}
+
+td, th {
+    color:antiquewhite;
+    font-size: large;
+    border-bottom: #BE3455;
+}
+
 h4 {
     font-family: 'Korolev Bold', sans-serif;
     color: #3be9b8;
+    text-align: center;
 }
 
 li {
